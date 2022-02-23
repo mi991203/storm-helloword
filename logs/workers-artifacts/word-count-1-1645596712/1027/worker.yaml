@@ -1,0 +1,4 @@
+worker-id: 4c20dfc9-b938-4bf3-9ddd-6b08c3bc57be
+logs.users: []
+logs.groups: []
+topology.submitter.user: hspcadmin

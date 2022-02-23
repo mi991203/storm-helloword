@@ -1,0 +1,4 @@
+com\shao\WordCountTopology$WordCount.class
+com\shao\WordCountTopology.class
+com\shao\WordCountTopology$RandomSentenceSpout.class
+com\shao\WordCountTopology$SplitSentence.class
